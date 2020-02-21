@@ -1,4 +1,4 @@
-// Base a ser utilizada
+// database
 let alunosDaEscola = [{
         nome: "Henrique",
         notas: [],
